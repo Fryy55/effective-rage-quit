@@ -1,0 +1,22 @@
+{
+	"geode": "4.3.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "fryy_55.effective_rage_quit",
+	"name": "Effective rage quit",
+	"version": "v1.0.0",
+	"developer": "Fryy_55",
+	"description": "Allows to quit GD from the pause menu",
+	"links": {
+		"source": "https://github.com/Fryy55/effective-rage-quit",
+		"community": "https://discord.com/invite/4vqtjfdhTk"
+	},
+	"tags": [
+		"enhancement",
+		"offline"
+	]
+}
