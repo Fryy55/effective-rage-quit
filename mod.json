@@ -11,6 +11,18 @@
 	"version": "v1.0.0",
 	"developer": "Fryy_55",
 	"description": "Allows to quit GD from the pause menu",
+	"settings": {
+		"title": {
+			"type": "title",
+			"name": "Settings"
+		},
+		"confirm": {
+			"type": "bool",
+			"name": "Popup confirmation",
+			"description": "Enable/disable a confirmation popup on clicking",
+			"default": true
+		}
+	},
 	"links": {
 		"source": "https://github.com/Fryy55/effective-rage-quit",
 		"community": "https://discord.com/invite/4vqtjfdhTk"
@@ -18,5 +30,11 @@
 	"tags": [
 		"enhancement",
 		"offline"
-	]
+	],
+	"dependencies": {
+		"geode.node-ids": {
+			"version": ">=v1.20.1",
+			"importance": "required"
+		}
+	}
 }
