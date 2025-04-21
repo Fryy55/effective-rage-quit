@@ -1,23 +1,16 @@
-# Effectiveragequit
+# Effective rage quit
 This is where she makes a mod.
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+<img src="logo.png" width="150" alt="logo!!!" />
 
-*Update logo.png to change your mod's icon (please)*
+# Installation
+1) Download the latest version from [releases](https://github.com/Fryy55/effective-rage-quit/releases)
+2) Install manually via Geode
 
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
+# Feedback
+You can leave your feedback in the Issues tab or by joining my [Discord server](https://discord.com/invite/4vqtjfdhTk)
 
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
-geode build
-```
+# License
+This project is distributed under the **Apache-2.0 License**.
 
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)
+See `LICENSE` for permissions, conditions and limitations.

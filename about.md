@@ -1,5 +1,5 @@
 # Effective rage quit
-Adds a new button to the pause menu that allows you to easily and effortlessly quit at any given moment!
+Adds a new button to the pause menu that allows you to easily and effortlessly quit at any given moment!\
 Requested by [phantom](user:14213112)
 
 ## Support and feedback
